@@ -6,7 +6,7 @@ Android developer. I am interested in developing my skills and knowledge in the 
 Kotlin, Java, Coroutines, Flow, DataBinding, JetpackCompose, Koin, Dagger-Hilt, Firebase, RoomDB, Retrofit, AndroidStudio, Gradle, SQL, Git.
 
 ### Location :earth_africa:
-Poland
+Gliwice (Poland)
 
 
 ### Contact :e-mail:
