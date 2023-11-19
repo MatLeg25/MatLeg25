@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Android developer. I am interested in developing my skills and knowledge in the field of modern mobile applications.
+Android developer. I am interested in improving my skills and knowledge about the development modern mobile applications.
 
 ### Skills: :large_blue_diamond:
 - Kotlin, Java, Coroutines, Flow
