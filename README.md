@@ -2,7 +2,7 @@
 
 Android developer. I am interested in improving my skills and knowledge about the development of modern mobile applications.
 
-### Skills: :large_blue_diamond:
+### Skills :large_blue_diamond:
 - Kotlin, Java, Coroutines, Flow
 - DataBinding, JetpackCompose
 - Koin, Dagger-Hilt
