@@ -9,6 +9,11 @@ Android developer. I am interested in improving my skills and knowledge about th
 - Firebase, RoomDB, Retrofit
 - AndroidStudio, Gradle, SQL, Git
 
+### My Apps <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
+[![Alt BeStatsY](https://github.com/user-attachments/assets/fc21b69a-5b70-4739-a641-1fd3ceb3077a)](https://github.com/MatLeg25/BeStatsY_official)
+[![Alt RetroKeyboard](https://github.com/user-attachments/assets/d5561f8c-f614-4384-9823-483bba701f51)](https://github.com/MatLeg25/RetroKeyboard)
+[![Alt SuppLine](https://github.com/user-attachments/assets/5c6fd0f2-4009-4c98-97fe-4c4ecf033c5f)](https://github.com/MatLeg25/SuppLine)
+
 ### Location :earth_africa:
 Gliwice (Poland)
 
